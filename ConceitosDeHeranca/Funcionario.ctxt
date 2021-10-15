@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment0.text=\r\n\ Esta\ classe\ cont\u00E9m\ as\ variaveis\ compartilhadas\ entre\ um\r\n\ funcionario\ horista\ e\ um\ fucionario\ mensalista\r\n\ \r\n\ \r\n\ @author\ (Mikael)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=n\ e
+comment1.target=Funcionario(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Funcionario\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=n
+comment3.target=void\ setNom(java.lang.String)
+comment4.params=
+comment4.target=int\ getHora()
+comment5.params=h
+comment5.target=void\ setHora(int)
+comment6.params=
+comment6.target=double\ getSalario()
+comment7.params=s
+comment7.target=void\ setSalario(double)
+comment8.params=
+comment8.target=double\ calcularSalario()
+numComments=9

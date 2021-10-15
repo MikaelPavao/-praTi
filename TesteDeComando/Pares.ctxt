@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Pares
+comment0.text=\r\n\ Esta\ classe\ ir\u00E1\ tratar\ os\ numeros\ de\ entrada\ e\ retornara\ \r\n\ os\ n\u00FAmeros\ pares,\ entre\ o\ n\u00FAmero\ inicial\ e\ o\ n\u00FAmero\ final,\r\n\ invertendo\ caso\ o\ n\u00FAmero\ inicial\ seja\ maior\ que\ o\ final.\r\n\ @author\ (Mikael)\ \r\n\ @version\ (11/10/2021)\r\n
+comment1.params=inicio\ fim
+comment1.target=java.lang.String\ retornaPares(int,\ int)
+numComments=2

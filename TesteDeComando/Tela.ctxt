@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Tela
+comment0.text=\r\n\ Esta\ classe\ vai\ receber\ os\ textos\ informados\ pelo\ usu\u00E1rio\r\n\ e\ ira\ retornar\ uma\ caixa\ de\ di\u00E1logo\ com\ estes\ textos\r\n\ \r\n\ @author\ (Mikael)\ \r\n\ @version\ (11/10/2021)\r\n
+comment1.params=texto
+comment1.target=int\ retornaInt(java.lang.String)
+comment2.params=a
+comment2.target=void\ mostraTexto(java.lang.String)
+numComments=3
